@@ -50,4 +50,5 @@ require("lazy").setup({
       },
     },
   },
+  format_on_save = false,
 })
